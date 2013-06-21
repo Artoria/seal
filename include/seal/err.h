@@ -7,7 +7,7 @@
 #ifndef _SEAL_ERR_H_
 #define _SEAL_ERR_H_
 
-#define SEAL_API
+#define SEAL_API __stdcall
 
 enum seal_err_t
 {
